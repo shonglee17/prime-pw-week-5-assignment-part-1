@@ -11,7 +11,7 @@ console.log('***** Object Practice *****')
 const me = {
   firstName : 'Shong',
   lastName : 'Lee',
-  hasSiblings : 5,
+  hasSiblings : true,
   shoeCount : 2,
   favThreeFoods : ['Rice', 'Steak', 'Noodles']
 
